@@ -14,7 +14,7 @@
         "allowUnreachableCode": false,
         "allowUnusedLabels": false,
         "noEmitHelpers": true,
-        "noEmitOnError": false,
+        "noEmitOnError": true,
         "noImplicitAny": false,
         "noImplicitReturns": true,
         "noImplicitUseStrict": false,
